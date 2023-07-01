@@ -59,7 +59,7 @@ List all registered routes.
 php artisan route:list
 ```
 
-Enjoy! [localhost:8000](http://localhost:8000/)
+Enjoy! [localhost:8000](http://localhost:8000)
 
 ## Built with
 
